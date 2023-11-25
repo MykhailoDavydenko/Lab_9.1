@@ -1,0 +1,14 @@
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\bin\Debug\net6.0\Lab_9.1.1.exe
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\bin\Debug\net6.0\Lab_9.1.1.deps.json
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\bin\Debug\net6.0\Lab_9.1.1.runtimeconfig.json
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\bin\Debug\net6.0\Lab_9.1.1.dll
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\bin\Debug\net6.0\Lab_9.1.1.pdb
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.AssemblyInfoInputs.cache
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.AssemblyInfo.cs
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.csproj.CoreCompileInputs.cache
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.dll
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\refint\Lab_9.1.1.dll
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.pdb
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\Lab_9.1.1.genruntimeconfig.cache
+D:\A_univer\АП\code\Lab_9.1\Lab_9.1.1\obj\Debug\net6.0\ref\Lab_9.1.1.dll
